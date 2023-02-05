@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BuhaDoru
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on Java Projects
 
 <!---
